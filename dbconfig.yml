@@ -1,0 +1,4 @@
+development:
+    dialect: mysql
+    datasource: root:root@/westy?parseTime=true
+    dir: database/migrations
